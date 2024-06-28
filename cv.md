@@ -12,7 +12,7 @@
 
 ## Profile:
 
-An unskilled (but hoping and trying to fix it in the nearest future) web developer. Strong creative and soft skills - team player, contactable, approachable and easy to get along with. 
+An unskilled (but hoping and trying to fix it in the nearest future) *wannabe* web developer. Strong creative and soft skills - also I'm a team player - contactable, approachable and easy to get along with. 
 
 ## Skills:
 
