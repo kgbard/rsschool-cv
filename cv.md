@@ -10,7 +10,7 @@
 
 ## Profile:
 
-An unskilled (but hoping and trying to fix it in the future) web developer. Strong creative and soft skills - team player, contactable, approachable and easy to get along with.
+An unskilled (but hoping and trying to fix it in the nearest future) web developer. Strong creative and soft skills - team player, contactable, approachable and easy to get along with.
 ## Skills:
 
 1. Problem-solving
@@ -18,6 +18,8 @@ An unskilled (but hoping and trying to fix it in the future) web developer. Stro
 3. Trainability
 4. Superficial knowledge of basic concepts and syntax - PHP, HTML, CSS, JS, Python
 5. B1-B2 level of English
+6. Basic organizational and management skills
+7. Superficial knowledge and skills in Adobe Premiere and Adobe Photoshop
 
 ## Education:
 
