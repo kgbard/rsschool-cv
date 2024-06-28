@@ -11,3 +11,6 @@ Problem-solving
 Computer Literacy
 Trainability
 Superficial knowledge of basic concepts and syntax - PHP, HTML, CSS, JS, Python
+## Education:
+Kazakh National Medical University - *unfinished degree*
+A few courses on Stepik, mostly related to the programming languages listed in "Skills"
