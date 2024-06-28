@@ -2,26 +2,29 @@
 ### Professional unemployed/perpetual student 
 ## Contact information:
 
-- +7 778 328 9548
+- Phone: +7 778 328 9548
 
-- gkoja00@gmail.com
+- Email: gkoja00@gmail.com
 
-- Discord/github - @kgbard
+- Discord/github: @kgbard
+
+- Telegram: @gkoja00
 
 ## Profile:
 
-An unskilled (but hoping and trying to fix it in the nearest future) web developer. Strong creative and soft skills - team player, contactable, approachable and easy to get along with.
+An unskilled (but hoping and trying to fix it in the nearest future) web developer. Strong creative and soft skills - team player, contactable, approachable and easy to get along with. 
+
 ## Skills:
 
-1. Problem-solving
-2. Computer Literacy
-3. Trainability
-4. Superficial knowledge of basic concepts and syntax - PHP, HTML, CSS, JS, Python
-5. B1-B2 level of English
-6. Basic organizational and management skills
-7. Superficial knowledge and skills in Adobe Premiere and Adobe Photoshop
+- Problem-solving
+- Computer Literacy
+- Trainability
+- Superficial knowledge of basic concepts and syntax - PHP, HTML, CSS, JS, Python
+- B1-B2 level of English
+- Basic organizational and management skills
+- Superficial knowledge and skills in Adobe Premiere and Adobe Photoshop
 
 ## Education:
 
 - Kazakh National Medical University - *unfinished degree*
-- A few courses on Stepik, mostly related to the programming languages listed in "Skills"
+- A several courses on [Stepik](stepik.org), mostly related to the programming languages listed in "Skills" - HTML/CSS/JS
