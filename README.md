@@ -1,1 +1,1 @@
-# [rsschool-cv](https://kgbard.github.io/rsschool-cv/cv)
+# [RSS-CV](https://kgbard.github.io/rsschool-cv/)
